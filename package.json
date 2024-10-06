@@ -1,0 +1,18 @@
+{
+  "name": "entry-js",
+  "version": "0.0.1",
+  "config": {
+    "file": 1
+  },
+  "scripts": {
+    "exec": "node .\\app-$npm_config_file.js",
+    "exec:win": "node .\\app-%npm_config_file%.js",
+    "exec:1": "node .\\app-1.js",
+    "exec:2": "node .\\app-2.js",
+    "exec:3": "node .\\app-3.js",
+    "exec:4": "node .\\app-4.js"
+  },
+  "author": "Woloja",
+  "license": "UNLICENSED",
+  "description": ""
+}
