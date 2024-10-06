@@ -1,8 +1,8 @@
-scripts to run in node js
+scripts to run in node js  
 
-unix-like:
+unix-like:  
 `npm run exec --file={n}`
-windows:
+windows:  
 `npm run exec:win --file={n}`
-or:
+or:  
 `npm run exec:{1,4}`
