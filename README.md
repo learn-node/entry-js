@@ -1,4 +1,4 @@
-scripts to run in done js
+scripts to run in node js
 
 unix-like:
 `npm run exec --file={n}`
